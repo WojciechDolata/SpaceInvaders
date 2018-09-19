@@ -1,0 +1,14 @@
+resolution=(600,600)
+screenwidth=600
+screenheight=600
+user_speed=0.5
+bullet_speed=1.5
+alien_speed=0.1
+alien_drop=20
+start_ammo=1000
+boss_drop=40
+boss_speed=0.5
+boss_how_often=500
+boss_hp=10
+boss_bullet_speed=0.4
+ammo=30
